@@ -8,3 +8,4 @@ git push
 ```
 git branch li 
 git checkout li
+```
